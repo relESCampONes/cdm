@@ -256,7 +256,7 @@ ul li.item4 a:hover::before {
     color: lightgreen;
 }
 .right {
-    background-image: url(cdm/img/cabelo3.png);
+    background-image: url(img/cabelo3.png);
     transition: 0.4s;
     min-width: 300px;
     margin-left: 160px;
@@ -265,6 +265,6 @@ ul li.item4 a:hover::before {
     transition: 0.4s;
 }
 .right:hover {
-    background-image: url(cdm/img/cabelo.png);
+    background-image: url(img/cabelo.png);
     /* margin-left: 60px; */
 }
